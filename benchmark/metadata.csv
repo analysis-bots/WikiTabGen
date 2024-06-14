@@ -1,0 +1,101 @@
+Table,num_rows,num_cols,num_cells,key_type,non_keys_numeric_ratio,popularity,category
+republican_straw_polls_2012,113,11,1243,Simple,1.0,396.7,Politics
+russia_demographics_1946_2012,67,15,1005,Simple,1.0,44382.6,Demographics
+belgium_demographics_1900_2011,112,9,1008,Simple,1.0,9314.0,Demographics
+australia_demographics_1900_2010,111,9,999,Simple,1.0,13896.5,Demographics
+new_brunswick_parishes_2006_2011,152,7,1064,Composite,1.0,533.1,Demographics
+ice_hockey_2006,244,7,1708,Simple,0.8333333333333334,84.4,Sports
+biathlon_sprint_standings_2009_10,98,13,1274,Simple,1.0,39.0,Sports
+anaheim_ducks_draft_picks_1998_2013,164,8,1312,Simple,0.5714285714285714,567.7,Sports
+south_african_class_15f_4_8_2,255,4,1020,Simple,0.3333333333333333,819.7,Business and Finance
+tour_de_france_2009,180,4,720,Simple,0.3333333333333333,234.8,Sports
+men_butterfly_100m_2009,163,5,815,Simple,0.75,258.7,Sports
+playstation_3_cooperative_games,178,7,1246,Simple,0.5,1798.2,Video Gaming
+rock_band_downloadable_2011,318,7,2226,Composite,0.0,569.2,Arts & Entertainment
+figure_skating_ladies_2009_2010,202,6,1212,Simple,0.4,625.5,Sports
+minor_planets_discovered_by_nikolai_chernykh,538,2,1076,Simple,0.0,511.1,Science
+elements,118,11,1298,Simple,0.9,8499.2,Science
+curling_teams_women_2013_2014,211,6,1266,Simple,0.0,287.3,Sports
+scottish_football_transfers_summer_2011,361,3,1083,Simple,0.0,119.5,Sports
+oregon_crime_1960_2009,50,11,550,Simple,1.0,655.5,Demographics
+living_proof_the_farewell_tour,326,4,1304,Simple,0.0,3054.5,Arts & Entertainment
+new_zealand_demographics_1921_2011,91,9,819,Simple,1.0,20431.6,Demographics
+liechtenstein_demographics_1901_2011,111,8,888,Simple,1.0,1864.9,Demographics
+usa_demographics_1935_2010,76,9,684,Simple,1.0,89040.8,Demographics
+andorra_demographics_1948_2012,65,8,520,Simple,1.0,1282.0,Demographics
+iran_pro_league_2012_2013,18,35,630,Simple,1.0,234.8,Sports
+english_latin_rivalry_1887_2012,126,4,504,Simple,0.6666666666666666,212.5,Sports
+formula_one_drivers_2010,27,22,594,Simple,1.0,8079.6,Sports
+sadaharu_oh_1959_1980,22,24,528,Simple,0.9565217391304348,7761.3,Sports
+equestrian_2012,74,7,518,Simple,0.6666666666666666,418.0,Sports
+tennessee_vanderbilt_rivalry_1900_2012,105,5,525,Simple,0.5,2471.6,Sports
+classic_100_ten_years_on,100,9,900,Composite,0.42857142857142855,91.6,Arts & Entertainment
+udaykumar_films,160,3,480,Simple,0.0,6002.2,Arts & Entertainment
+fa_cup_qualifying_rounds_1999_2000,197,4,788,Composite,1.0,96.9,Sports
+portuguese_grape_varieties,126,2,252,Simple,0.0,896.2,Business
+ramsar_convention_parties,166,3,498,Simple,0.5,792.3,Politics
+guitar_hero_5_songs,85,6,510,Simple,0.0,11940.3,Video Gaming
+south_cambridgeshire_district_council_1973_2012,40,10,400,Simple,1.0,426.1,Politics
+dublin_maternity_hospital_mortality_rates_1784_1849,66,4,264,Simple,1.0,943.1,Health & Fitness
+ship_launches_january_1944,96,6,576,Simple,0.0,366.6,Business and Finance
+uk_demographics_1960_2012,53,9,477,Simple,1.0,50946.5,Demographics
+fukushima_plant_operating_history_1970_2009,40,7,280,Simple,1.0,14850.3,Politics
+new_zealand_football_results_1922_2012,56,7,392,Simple,1.0,447.7,Sports
+jack_nicklaus_achievements_1962_2005,44,8,352,Simple,1.0,4087.3,Sports
+bond_credit_rating_1981_2008,28,17,476,Simple,1.0,44987.2,Business and Finance
+baltimore_oreoles_2012,26,13,338,Simple,1.0,868.2,Sports
+david_robinson_40_pts_games,23,15,345,Simple,0.8571428571428571,38902.9,Sports
+latin_american_migration_to_uk_1997_2008,19,14,266,Simple,1.0,1635.3,Politics
+european_countries_gdp_2007_2012,47,8,376,Simple,1.0,19784.4,Politics
+royal_dulton_figurines_HN4100_HN4199,59,5,295,Simple,0.0,285.1,Hobbies and Interests
+adaalat_episodes_2012,100,5,500,Simple,0.75,61.8,Arts & Entertainment
+viktoria_plzen_1993_2012,20,12,240,Simple,0.9090909090909091,9489.4,Sports
+just_dance_kids_2_tracks,39,7,273,Simple,0.3333333333333333,1880.8,Video Gaming
+cross_country_junior_women_1996,115,4,460,Simple,0.6666666666666666,81.8,Sports
+metropolitan_opera_us_premieres,99,3,297,Simple,0.0,176.7,Arts & Entertainment
+kasparov_kramnik_1993_2004,49,8,392,Simple,0.14285714285714285,481.3,Sports
+decathlon_top50_1999,50,5,250,Simple,0.5,59.5,Sports
+minor_planets_152601_152700,100,5,500,Simple,0.0,190.1,Science
+two_and_a_half_men_season_7,22,6,132,Simple,0.6,4470.7,Arts & Entertainment
+moesha_season_7,26,4,104,Simple,0.6666666666666666,4863.7,Arts & Entertainment
+miss_new_york_usa_delegates_2012,142,2,284,Simple,0.0,230.1,Events
+clint_dolezel_stats_1995_2008,13,8,104,Simple,1.0,1168.1,Sports
+oxford_university_undergraduate_admissions_1988_2010,22,7,154,Simple,1.0,425.8,Education
+serbia_demographics_1900_1912,13,8,104,Simple,1.0,8346.4,Demographics
+protein_data_bank_1976_2012,37,3,111,Simple,1.0,9555.8,Science
+european_athletics_championships_1986,17,6,102,Simple,1.0,779.8,Sports
+mongolia_provinces_population_79_89_00_09,22,5,110,Simple,1.0,2277.6,Demographics
+tulsa_shock_2010,18,12,216,Simple,1.0,92.7,Sports
+london_heathrow_busiest_routes_2012,60,4,240,Simple,1.0,15237.0,Business and Finance
+hungarian_grand_prix_qualifying_2012,24,7,168,Simple,0.8333333333333334,1102.9,Sports
+farum_park_national_games,20,4,80,Simple,0.3333333333333333,705.8,Sports
+india_poverty_2007,21,8,168,Simple,1.0,56655.4,Sensitive Topics
+us_president_elections_idaho_2008,44,5,220,Simple,1.0,575.2,Politics
+blackburn_rovers_1995_1996,38,5,190,Simple,0.5,1472.9,Sports
+maurice_jarr_1958_2001,63,2,126,Simple,0.0,11977.6,Arts & Entertainment
+49ers_rams_rivalry_1980s,21,8,168,Composite,0.3333333333333333,1598.5,Sports
+academy_award_best_actress_2000s,50,4,200,Composite,0.0,104959.7,Arts & Entertainment
+mens_walking_20km_record_1911_2007,36,4,144,Simple,0.0,458.2,Sports
+booknotes_interviews_1996,49,3,147,Simple,0.0,95.4,Books and Literature
+bafta_best_actor_leading_role_2000s,51,4,204,Composite,0.0,8551.6,Arts & Entertainment
+troublemaker_song_release_history,28,4,112,Composite,0.0,2289.9,Arts & Entertainment
+wind_power_kansas_2001_2011,11,3,33,Simple,1.0,1204.1,Business and Finance
+fljotsdalshreppur_population_1998_2011,14,2,28,Simple,1.0,217.8,Demographics
+social_credit_party_1951_1984,12,5,60,Simple,1.0,1318.0,Politics
+soekarno_hatta_airport_2001_2012,12,4,48,Simple,1.0,22202.0,Business and Finance
+ulrike_maier_season_standings_1985_1994,10,8,80,Simple,1.0,2437.4,Sports
+black_dog_barking_charts,11,2,22,Simple,1.0,1316.7,Arts & Entertainment
+ahl_scoring_leaders_1979_1980,10,7,70,Simple,0.8333333333333334,185.0,Sports
+boxing_medal_table_olympics_1928,14,6,84,Simple,1.0,427.9,Sports
+uefa_intertoto_cup_top_scorers_2001,11,4,44,Simple,0.6666666666666666,1776.8,Sports
+montenegro_eurovision_2007,10,5,50,Simple,0.75,145.5,Arts & Entertainment
+great_ukrainians_series,10,3,30,Simple,0.5,350.0,Arts & Entertainment
+elland_road_leeds_united_attendance_2000_2012,13,5,65,Simple,0.75,13195.1,Sports
+sydney_hobart_yacht_race_2007,10,7,70,Simple,0.3333333333333333,117.8,Sports
+kal_penn_tv_roles_1999_2013,18,3,54,Simple,0.0,118256.8,Arts & Entertainment
+susen_tiedtke_achievements_1987_2000,10,4,40,Composite,0.5,504.5,Sports
+bifa_british_independent_film_2010_2012,15,3,45,Simple,0.0,848.7,Arts & Entertainment
+through_the_wormhole_season_4,10,3,30,Simple,0.5,8845.6,Arts & Entertainment
+un_habitat_scroll_of_honour_award_1991,11,2,22,Simple,0.0,261.4,Politics
+miss_universe_semifinal_scores_1993,10,5,50,Simple,1.0,3890.2,Pop Culture
+woodley_season_1_2012,8,5,40,Simple,0.25,261.6,Arts & Entertainment
