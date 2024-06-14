@@ -1,0 +1,27 @@
+keys_template = """
+    You are a retriever of facts.
+    We want to create a table with the detailed information about %s.
+    %s.
+    List all %s entities for the table. 
+    The response will be formatted as JSON list shown below.
+    
+    RESPONSE FORMAT:
+    [{
+        %s
+    }]
+    """ 
+   
+cell_template = """
+    You are a retriever of facts.
+    We want to create a table with the detailed information about %s.
+    Columns in the table are %s.
+    %s.  
+    For the table row whose key is %s what is the value of attribute %s.
+    The response will be formatted as JSON dictionary shown below.
+    Pay special attention to wrap all property names and values in double quotes!
+    
+    RESPONSE FORMAT:
+    {
+        %s
+    }
+    """

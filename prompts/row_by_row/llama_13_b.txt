@@ -1,0 +1,38 @@
+keys_template = """
+    [INST] <<SYS>>
+    You are a retriever of facts.
+    <</SYS>>  
+
+    We want to create a table with the detailed information about %s.
+    %s.
+    List all %s entities for the table. 
+    The response will be formatted as JSON list shown below.
+    Pay special attention to wrap all property names and values in double quotes!
+    
+    RESPONSE FORMAT:
+    [{
+        %s
+    }]
+    
+    [/INST]
+    """   
+    
+row_template = """   
+    [INST] <<SYS>>
+    You are a retriever of facts.
+    <</SYS>>  
+    We want to create a table with the detailed information about %s.
+    Columns in the table are %s.
+    %s.     
+    Retrieve a single row whose key is %s.
+    The response will be formatted as JSON dictionary shown below.
+    If the information for some element is unknown or unavailable, set the field's value as "N/A".
+    Pay special attention to wrap all property names and values in double quotes!
+    
+    RESPONSE FORMAT:
+    {
+        %s
+    }
+    
+    [/INST]
+    """

@@ -1,0 +1,12 @@
+prompt_template = """
+    You are a retriever of facts.
+    List all %s.
+    The response will be formatted as JSON shown below.
+    Each element of the response will contain %d fields: %s.
+    Do not output any additional text that is not in JSON format.
+        
+    RESPONSE FORMAT:
+    [{
+        %s
+    }]
+    """
