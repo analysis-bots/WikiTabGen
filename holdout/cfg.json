@@ -1,0 +1,359 @@
+{
+    "0": {
+        "id": 0,
+        "name": "aminoacids",
+        "description": "amino acids that function as the building blocks for proteins",
+        "columns": [
+            "full name",
+            "3-letter symbol",
+            "1-letter symbol",
+            "hydropathy index",
+            "molecular mass",
+            "molecular formula"
+        ],
+		"date_columns": [],
+		"epsilons": {"Molecular Mass": 0.001},
+        "keys": [
+            "Name"
+        ],
+        "path": "DATA/Benchmark/Files/aminoacids.csv"
+    },
+    "1": {
+        "id": 1,
+        "name": "beatles_us_albums",
+        "description": "original Beatles studio albums released in US",
+        "columns": [
+            "album title",
+            "release date",
+            "peak chart position in UK",
+            "peak chart position in Australia",
+            "peak chart position in Canada",
+            "peak chart position in France",
+            "peak chart position in Germany",
+            "peak chart position in Norway",
+            "peak chart position in US"
+        ],
+		"date_columns": ["Release Date"],
+		"epsilons": {},
+        "keys": [
+            "Title"
+        ],
+        "path": "DATA/Benchmark/Files/beatles_us_albums.csv"
+    },
+    "2": {
+        "id": 2,
+        "name": "bond_movies",
+        "description": "James Bond movies",
+        "columns": [
+            "movie title",
+            "release year",
+            "distributor",
+            "bond actor",
+            "main villain",
+            "main villain actor"
+        ],
+		"date_columns": [],
+		"epsilons": {},
+        "keys": [
+            "Title"
+        ],
+        "path": "DATA/Benchmark/Files/bond_movies.csv"
+    },
+    "3": {
+        "id": 3,
+        "name": "breaking_bad_episodes",
+        "description": "episodes of Breaking Bad series",
+        "columns": [
+            "episode overall number",
+            "episode number in season",
+            "season number",
+            "episode title",
+            "directed by",
+            "written by",
+            "original air date",
+            "US viewers millions"
+        ],
+		"date_columns": ["Original Air Date"],
+		"epsilons": {},
+        "keys": [
+            "Title"
+        ],
+        "path": "DATA/Benchmark/Files/breaking_bad_episodes.csv"
+    },
+    "4": {
+        "id": 4,
+        "name": "brigitte_bardot_films",
+        "description": "films featuring Brigitte Bardot - original titles in French",
+        "columns": [
+            "year",
+            "original title",
+            "role"
+        ],
+		"date_columns": [],
+		"epsilons": {},
+        "keys": [
+            "Original Title"
+        ],
+        "path": "DATA/Benchmark/Files/brigitte_bardot_films.csv"
+    },
+    "5": {
+        "id": 5,
+        "name": "chemical_elements",
+        "description": "chemical elements",
+        "columns": [
+            "atomic number",
+            "symbol",
+            "element name",
+            "period",
+            "block",
+            "atomic weight",
+            "phase at room temperature"
+        ],
+		"date_columns": [],
+		"epsilons": {"Atomic Weight": 0.001},
+        "keys": [
+            "Name"
+        ],
+        "path": "DATA/Benchmark/Files/chemical_elements.csv"
+    },
+    "6": {
+        "id": 6,
+        "name": "china_borders",
+        "description": "countries having land border with China",
+        "columns": [
+            "country",
+            "border length km"
+        ],
+		"date_columns": [],
+		"epsilons": {"Border Length": 0.001},
+        "keys": [
+            "Country"
+        ],
+        "path": "DATA/Benchmark/Files/china_borders.csv"
+    },
+    "7": {
+        "id": 7,
+        "name": "eurovision_winners",
+        "description": "winners of all Eurovision song contests",
+        "columns": [
+            "year",
+            "winning country",
+            "song",
+            "artist",
+            "hosting country"
+        ],
+		"date_columns": [],
+		"epsilons": {},
+        "keys": [
+            "Year"
+        ],
+        "path": "DATA/Benchmark/Files/eurovision_winners.csv"
+    },
+    "8": {
+        "id": 8,
+        "name": "female_100m_best",
+        "description": "female 100 meters race results under 11 seconds",
+        "columns": [
+		    "competitor name",
+            "mark",
+            "wind",            
+            "nationality",
+            "date"
+        ],
+		"date_columns": ["Date"],
+		"epsilons": {},
+        "keys": [
+            "Competitor",
+            "Mark"
+        ],
+        "path": "DATA/Benchmark/Files/female_100m_best.csv"
+    },
+    "9": {
+        "id": 9,
+        "name": "formula_one_2017",
+        "description": "Formula One 2017 season results",
+        "columns": [
+            "race round number",
+            "grand prix name",
+            "pole position driver",
+            "fastest lap driver",
+            "winning driver",
+            "winning constructor"
+        ],
+		"date_columns": [],
+		"epsilons": {},
+        "keys": [
+            "Grand Prix"
+        ],
+        "path": "DATA/Benchmark/Files/formula_one_2017.csv"
+    },
+    "10": {
+        "id": 10,
+        "name": "illinois_governors",
+        "description": "former governors of Illinois",
+        "columns": [
+            "governor name",
+            "term start date",
+            "term end date",
+            "party"
+        ],
+		"date_columns": ["Term Start Date", "Term End Date"],
+		"epsilons": {},
+        "keys": [
+            "Name"
+        ],
+        "path": "DATA/Benchmark/Files/illinois_governors.csv"
+    },
+    "11": {
+        "id": 11,
+        "name": "japan_prefectures",
+        "description": "prefectures of Japan",
+        "columns": [
+            "prefecture",
+            "capital",
+            "region",
+            "major island",
+            "area km2",
+            "iso"
+        ],
+		"date_columns": [],
+		"epsilons": {"Area": 0.001},
+        "keys": [
+            "Prefecture"
+        ],
+        "path": "DATA/Benchmark/Files/japan_prefectures.csv"
+    },
+    "12": {
+        "id": 12,
+        "name": "muhammad_ali_fights",
+        "description": "Muhammad Ali fights in professional career",
+        "columns": [
+            "fight number",
+            "result",
+            "opponent",
+            "last round",
+            "total rounds",
+            "date",
+            "country"
+        ],
+		"date_columns": ["Date"],
+		"epsilons": {},
+        "keys": [
+            "Opponent",
+			"Date"
+        ],
+        "path": "DATA/Benchmark/Files/muhammad_ali_fights.csv"
+    },
+    "13": {
+        "id": 13,
+        "name": "nobel_winners_chemistry",
+        "description": "winners of Nobel Prize in chemistry from year 2000 (including)",
+        "columns": [
+            "year",
+            "first name",
+            "last name",
+            "gender",
+            "citizenship",
+            "year of birth"
+        ],
+		"date_columns": [],
+		"epsilons": {},
+        "keys": [
+            "Last Name"
+        ],
+        "path": "DATA/Benchmark/Files/nobel_winners_chemistry.csv"
+    },
+    "14": {
+        "id": 14,
+        "name": "qing_dynasty",
+        "description": "emperors of Qing dynasty",
+        "columns": [
+            "emperor name",
+            "reign start year",
+            "reign end year"
+        ],
+		"date_columns": [],
+		"epsilons": {},
+        "keys": [
+            "Name"
+        ],
+        "path": "DATA/Benchmark/Files/qing_dynasty.csv"
+    },
+    "15": {
+        "id": 15,
+        "name": "seoul_olympics",
+        "description": "medal table of Seoul Olympic Games",
+        "columns": [
+            "country",
+            "gold medals",
+            "silver medals",
+            "bronze medals",
+            "total medals"
+        ],
+		"date_columns": [],
+		"epsilons": {},
+        "keys": [
+            "Country"
+        ],
+        "path": "DATA/Benchmark/Files/seoul_olympics.csv"
+    },
+    "16": {
+        "id": 16,
+        "name": "shakespeare_plays",
+        "description": "Shakespeare plays",
+        "columns": [
+            "play title",
+            "genre",
+            "word count",
+            "speech count",
+            "publication year"
+        ],
+		"date_columns": [],
+		"epsilons": {"Word Count": 0.001, "Speech Count": 0.001},
+        "keys": [
+            "Title"
+        ],
+        "path": "DATA/Benchmark/Files/shakespeare_plays.csv"
+    },
+    "17": {
+        "id": 17,
+        "name": "verdi_operas",
+        "description": "Verdi operas",
+        "columns": [
+            "opera title",
+            "acts",
+            "language",
+            "premiere venue",
+            "premiere city",
+            "premiere date"
+        ],
+		"date_columns": ["Premiere Date"],
+		"epsilons": {},
+        "keys": [
+            "Title"
+        ],
+        "path": "DATA/Benchmark/Files/verdi_operas.csv"
+    },
+    "18": {
+        "id": 18,
+        "name": "world_cup_finals",
+        "description": "World Cup final games",
+        "columns": [
+            "year",
+            "winners",
+            "runners-up",
+            "venue",
+            "city",
+            "country",
+            "attendance",
+            "winners score at main time",
+            "runners-up score at main time"
+        ],
+		"date_columns": [],
+		"epsilons": {"Attendance": 0.001},
+        "keys": [
+            "Year"
+        ],
+        "path": "DATA/Benchmark/Files/world_cup_finals.csv"
+    }
+}

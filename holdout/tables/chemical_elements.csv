@@ -1,0 +1,119 @@
+Atomic Number,Symbol,Name,Period,Block,Atomic Weight,Phase at r.t
+1,H,Hydrogen,1,s-block,1.008,gas
+2,He,Helium,1,s-block,4.0026,gas
+3,Li,Lithium,2,s-block,6.94,solid
+4,Be,Beryllium,2,s-block,9.0122,solid
+5,B,Boron,2,p-block,10.81,solid
+6,C,Carbon,2,p-block,12.011,solid
+7,N,Nitrogen,2,p-block,14.007,gas
+8,O,Oxygen,2,p-block,15.999,gas
+9,F,Fluorine,2,p-block,18.998,gas
+10,Ne,Neon,2,p-block,20.18,gas
+11,Na,Sodium,3,s-block,22.99,solid
+12,Mg,Magnesium,3,s-block,24.305,solid
+13,Al,Aluminium,3,p-block,26.982,solid
+14,Si,Silicon,3,p-block,28.085,solid
+15,P,Phosphorus,3,p-block,30.974,solid
+16,S,Sulfur,3,p-block,32.06,solid
+17,Cl,Chlorine,3,p-block,35.45,gas
+18,Ar,Argon,3,p-block,39.95,gas
+19,K,Potassium,4,s-block,39.098,solid
+20,Ca,Calcium,4,s-block,40.078,solid
+21,Sc,Scandium,4,d-block,44.956,solid
+22,Ti,Titanium,4,d-block,47.867,solid
+23,V,Vanadium,4,d-block,50.942,solid
+24,Cr,Chromium,4,d-block,51.996,solid
+25,Mn,Manganese,4,d-block,54.938,solid
+26,Fe,Iron,4,d-block,55.845,solid
+27,Co,Cobalt,4,d-block,58.933,solid
+28,Ni,Nickel,4,d-block,58.693,solid
+29,Cu,Copper,4,d-block,63.546,solid
+30,Zn,Zinc,4,d-block,65.38,solid
+31,Ga,Gallium,4,p-block,69.723,solid
+32,Ge,Germanium,4,p-block,72.63,solid
+33,As,Arsenic,4,p-block,74.922,solid
+34,Se,Selenium,4,p-block,78.971,solid
+35,Br,Bromine,4,p-block,79.904,liquid
+36,Kr,Krypton,4,p-block,83.798,gas
+37,Rb,Rubidium,5,s-block,85.468,solid
+38,Sr,Strontium,5,s-block,87.62,solid
+39,Y,Yttrium,5,d-block,88.906,solid
+40,Zr,Zirconium,5,d-block,91.224,solid
+41,Nb,Niobium,5,d-block,92.906,solid
+42,Mo,Molybdenum,5,d-block,95.95,solid
+43,Tc,Technetium,5,d-block,97,solid
+44,Ru,Ruthenium,5,d-block,101.07,solid
+45,Rh,Rhodium,5,d-block,102.91,solid
+46,Pd,Palladium,5,d-block,106.42,solid
+47,Ag,Silver,5,d-block,107.87,solid
+48,Cd,Cadmium,5,d-block,112.41,solid
+49,In,Indium,5,p-block,114.82,solid
+50,Sn,Tin,5,p-block,118.71,solid
+51,Sb,Antimony,5,p-block,121.76,solid
+52,Te,Tellurium,5,p-block,127.6,solid
+53,I,Iodine,5,p-block,126.9,solid
+54,Xe,Xenon,5,p-block,131.29,gas
+55,Cs,Caesium,6,s-block,132.91,solid
+56,Ba,Barium,6,s-block,137.33,solid
+57,La,Lanthanum,6,f-block,138.91,solid
+58,Ce,Cerium,6,f-block,140.12,solid
+59,Pr,Praseodymium,6,f-block,140.91,solid
+60,Nd,Neodymium,6,f-block,144.24,solid
+61,Pm,Promethium,6,f-block,145,solid
+62,Sm,Samarium,6,f-block,150.36,solid
+63,Eu,Europium,6,f-block,151.96,solid
+64,Gd,Gadolinium,6,f-block,157.25,solid
+65,Tb,Terbium,6,f-block,158.93,solid
+66,Dy,Dysprosium,6,f-block,162.5,solid
+67,Ho,Holmium,6,f-block,164.93,solid
+68,Er,Erbium,6,f-block,167.26,solid
+69,Tm,Thulium,6,f-block,168.93,solid
+70,Yb,Ytterbium,6,f-block,173.05,solid
+71,Lu,Lutetium,6,d-block,174.97,solid
+72,Hf,Hafnium,6,d-block,178.49,solid
+73,Ta,Tantalum,6,d-block,180.95,solid
+74,W,Tungsten,6,d-block,183.84,solid
+75,Re,Rhenium,6,d-block,186.21,solid
+76,Os,Osmium,6,d-block,190.23,solid
+77,Ir,Iridium,6,d-block,192.22,solid
+78,Pt,Platinum,6,d-block,195.08,solid
+79,Au,Gold,6,d-block,196.97,solid
+80,Hg,Mercury,6,d-block,200.59,liquid
+81,Tl,Thallium,6,p-block,204.38,solid
+82,Pb,Lead,6,p-block,207.2,solid
+83,Bi,Bismuth,6,p-block,208.98,solid
+84,Po,Polonium,6,p-block,209,solid
+85,At,Astatine,6,p-block,210,unknown phase
+86,Rn,Radon,6,p-block,222,gas
+87,Fr,Francium,7,s-block,223,unknown phase
+88,Ra,Radium,7,s-block,226,solid
+89,Ac,Actinium,7,f-block,227,solid
+90,Th,Thorium,7,f-block,232.04,solid
+91,Pa,Protactinium,7,f-block,231.04,solid
+92,U,Uranium,7,f-block,238.03,solid
+93,Np,Neptunium,7,f-block,237,solid
+94,Pu,Plutonium,7,f-block,244,solid
+95,Am,Americium,7,f-block,243,solid
+96,Cm,Curium,7,f-block,247,solid
+97,Bk,Berkelium,7,f-block,247,solid
+98,Cf,Californium,7,f-block,251,solid
+99,Es,Einsteinium,7,f-block,252,solid
+100,Fm,Fermium,7,f-block,257,unknown phase
+101,Md,Mendelevium,7,f-block,258,unknown phase
+102,No,Nobelium,7,f-block,259,unknown phase
+103,Lr,Lawrencium,7,d-block,266,unknown phase
+104,Rf,Rutherfordium,7,d-block,267,unknown phase
+105,Db,Dubnium,7,d-block,268,unknown phase
+106,Sg,Seaborgium,7,d-block,269,unknown phase
+107,Bh,Bohrium,7,d-block,270,unknown phase
+108,Hs,Hassium,7,d-block,269,unknown phase
+109,Mt,Meitnerium,7,d-block,278,unknown phase
+110,Ds,Darmstadtium,7,d-block,281,unknown phase
+111,Rg,Roentgenium,7,d-block,282,unknown phase
+112,Cn,Copernicium,7,d-block,285,unknown phase
+113,Nh,Nihonium,7,p-block,286,unknown phase
+114,Fl,Flerovium,7,p-block,289,unknown phase
+115,Mc,Moscovium,7,p-block,290,unknown phase
+116,Lv,Livermorium,7,p-block,293,unknown phase
+117,Ts,Tennessine,7,p-block,294,unknown phase
+118,Og,Oganesson,7,p-block,294,unknown phase
