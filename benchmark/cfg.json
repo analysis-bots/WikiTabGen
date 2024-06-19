@@ -1,6 +1,6 @@
 {
     "0": {
-        "path": "DATA/Benchmark/Files/republican_straw_polls_2012.csv",
+        "path": "benchmark/tables/republican_straw_polls_2012.csv",
         "id": 0,
         "wikiId": "31498369-72",
         "name": "republican_straw_polls_2012",
@@ -63,7 +63,7 @@
         "popularity": 396.7
     },
     "1": {
-        "path": "DATA/Benchmark/Files/russia_demographics_1946_2012.csv",
+        "path": "benchmark/tables/russia_demographics_1946_2012.csv",
         "id": 1,
         "wikiId": "25703-4",
         "name": "russia_demographics_1946_2012",
@@ -141,7 +141,7 @@
         "popularity": 44382.6
     },
     "2": {
-        "path": "DATA/Benchmark/Files/belgium_demographics_1900_2011.csv",
+        "path": "benchmark/tables/belgium_demographics_1900_2011.csv",
         "id": 2,
         "wikiId": "67307-1",
         "name": "belgium_demographics_1900_2011",
@@ -201,7 +201,7 @@
         "popularity": 9314.0
     },
     "3": {
-        "path": "DATA/Benchmark/Files/australia_demographics_1900_2010.csv",
+        "path": "benchmark/tables/australia_demographics_1900_2010.csv",
         "id": 3,
         "wikiId": "67630-3",
         "name": "australia_demographics_1900_2010",
@@ -261,7 +261,7 @@
         "popularity": 13896.5
     },
     "4": {
-        "path": "DATA/Benchmark/Files/new_brunswick_parishes_2006_2011.csv",
+        "path": "benchmark/tables/new_brunswick_parishes_2006_2011.csv",
         "id": 4,
         "wikiId": "1970598-1",
         "name": "new_brunswick_parishes_2006_2011",
@@ -312,7 +312,7 @@
         "popularity": 533.1
     },
     "5": {
-        "path": "DATA/Benchmark/Files/ice_hockey_2006.csv",
+        "path": "benchmark/tables/ice_hockey_2006.csv",
         "id": 5,
         "wikiId": "4083383-1",
         "name": "ice_hockey_2006",
@@ -361,7 +361,7 @@
         "popularity": 84.4
     },
     "6": {
-        "path": "DATA/Benchmark/Files/biathlon_sprint_standings_2009_10.csv",
+        "path": "benchmark/tables/biathlon_sprint_standings_2009_10.csv",
         "id": 6,
         "wikiId": "25327342-3",
         "name": "biathlon_sprint_standings_2009_10",
@@ -429,7 +429,7 @@
         "popularity": 39.0
     },
     "7": {
-        "path": "DATA/Benchmark/Files/anaheim_ducks_draft_picks_1998_2013.csv",
+        "path": "benchmark/tables/anaheim_ducks_draft_picks_1998_2013.csv",
         "id": 7,
         "wikiId": "17571538-3",
         "name": "anaheim_ducks_draft_picks_1998_2013",
@@ -478,7 +478,7 @@
         "popularity": 567.7
     },
     "8": {
-        "path": "DATA/Benchmark/Files/south_african_class_15f_4_8_2.csv",
+        "path": "benchmark/tables/south_african_class_15f_4_8_2.csv",
         "id": 8,
         "wikiId": "29914035-1",
         "name": "south_african_class_15f_4_8_2",
@@ -517,7 +517,7 @@
         "popularity": 819.7
     },
     "9": {
-        "path": "DATA/Benchmark/Files/tour_de_france_2009.csv",
+        "path": "benchmark/tables/tour_de_france_2009.csv",
         "id": 9,
         "wikiId": "22038945-23",
         "name": "tour_de_france_2009",
@@ -553,7 +553,7 @@
         "popularity": 234.8
     },
     "10": {
-        "path": "DATA/Benchmark/Files/men_butterfly_100m_2009.csv",
+        "path": "benchmark/tables/men_butterfly_100m_2009.csv",
         "id": 10,
         "wikiId": "23757075-3",
         "name": "men_butterfly_100m_2009",
@@ -594,7 +594,7 @@
         "popularity": 258.7
     },
     "11": {
-        "path": "DATA/Benchmark/Files/playstation_3_cooperative_games.csv",
+        "path": "benchmark/tables/playstation_3_cooperative_games.csv",
         "id": 11,
         "wikiId": "31486741-1",
         "name": "playstation_3_cooperative_games",
@@ -634,7 +634,7 @@
         "popularity": 1798.2
     },
     "12": {
-        "path": "DATA/Benchmark/Files/rock_band_downloadable_2011.csv",
+        "path": "benchmark/tables/rock_band_downloadable_2011.csv",
         "id": 12,
         "wikiId": "30222710-1",
         "name": "rock_band_downloadable_2011",
@@ -675,7 +675,7 @@
         "popularity": 569.2
     },
     "13": {
-        "path": "DATA/Benchmark/Files/figure_skating_ladies_2009_2010.csv",
+        "path": "benchmark/tables/figure_skating_ladies_2009_2010.csv",
         "id": 13,
         "wikiId": "24990183-9",
         "name": "figure_skating_ladies_2009_2010",
@@ -718,7 +718,7 @@
         "popularity": 625.5
     },
     "14": {
-        "path": "DATA/Benchmark/Files/minor_planets_discovered_by_nikolai_chernykh.csv",
+        "path": "benchmark/tables/minor_planets_discovered_by_nikolai_chernykh.csv",
         "id": 14,
         "wikiId": "619606-1",
         "name": "minor_planets_discovered_by_nikolai_chernykh",
@@ -749,7 +749,7 @@
         "popularity": 511.1
     },
     "15": {
-        "path": "DATA/Benchmark/Files/elements.csv",
+        "path": "benchmark/tables/elements.csv",
         "id": 15,
         "wikiId": "2152181-1",
         "name": "elements",
@@ -804,7 +804,7 @@
         "popularity": 8499.2
     },
     "16": {
-        "path": "DATA/Benchmark/Files/curling_teams_women_2013_2014.csv",
+        "path": "benchmark/tables/curling_teams_women_2013_2014.csv",
         "id": 16,
         "wikiId": "39341410-2",
         "name": "curling_teams_women_2013_2014",
@@ -840,7 +840,7 @@
         "popularity": 287.3
     },
     "17": {
-        "path": "DATA/Benchmark/Files/scottish_football_transfers_summer_2011.csv",
+        "path": "benchmark/tables/scottish_football_transfers_summer_2011.csv",
         "id": 17,
         "wikiId": "31882558-1",
         "name": "scottish_football_transfers_summer_2011",
@@ -873,7 +873,7 @@
         "popularity": 119.5
     },
     "18": {
-        "path": "DATA/Benchmark/Files/oregon_crime_1960_2009.csv",
+        "path": "benchmark/tables/oregon_crime_1960_2009.csv",
         "id": 18,
         "wikiId": "25271777-1",
         "name": "oregon_crime_1960_2009",
@@ -939,7 +939,7 @@
         "popularity": 655.5
     },
     "19": {
-        "path": "DATA/Benchmark/Files/living_proof_the_farewell_tour.csv",
+        "path": "benchmark/tables/living_proof_the_farewell_tour.csv",
         "id": 19,
         "wikiId": "6220132-1",
         "name": "living_proof_the_farewell_tour",
@@ -972,7 +972,7 @@
         "popularity": 3054.5
     },
     "20": {
-        "path": "DATA/Benchmark/Files/new_zealand_demographics_1921_2011.csv",
+        "path": "benchmark/tables/new_zealand_demographics_1921_2011.csv",
         "id": 20,
         "wikiId": "21354-1",
         "name": "new_zealand_demographics_1921_2011",
@@ -1032,7 +1032,7 @@
         "popularity": 20431.6
     },
     "21": {
-        "path": "DATA/Benchmark/Files/liechtenstein_demographics_1901_2011.csv",
+        "path": "benchmark/tables/liechtenstein_demographics_1901_2011.csv",
         "id": 21,
         "wikiId": "17813-2",
         "name": "liechtenstein_demographics_1901_2011",
@@ -1089,7 +1089,7 @@
         "popularity": 1864.9
     },
     "22": {
-        "path": "DATA/Benchmark/Files/usa_demographics_1935_2010.csv",
+        "path": "benchmark/tables/usa_demographics_1935_2010.csv",
         "id": 22,
         "wikiId": "70197-1",
         "name": "usa_demographics_1935_2010",
@@ -1149,7 +1149,7 @@
         "popularity": 89040.8
     },
     "23": {
-        "path": "DATA/Benchmark/Files/andorra_demographics_1948_2012.csv",
+        "path": "benchmark/tables/andorra_demographics_1948_2012.csv",
         "id": 23,
         "wikiId": "67580-1",
         "name": "andorra_demographics_1948_2012",
@@ -1206,7 +1206,7 @@
         "popularity": 1282.0
     },
     "24": {
-        "path": "DATA/Benchmark/Files/iran_pro_league_2012_2013.csv",
+        "path": "benchmark/tables/iran_pro_league_2012_2013.csv",
         "id": 24,
         "wikiId": "35662769-8",
         "name": "iran_pro_league_2012_2013",
@@ -1306,7 +1306,7 @@
         "popularity": 234.8
     },
     "25": {
-        "path": "DATA/Benchmark/Files/english_latin_rivalry_1887_2012.csv",
+        "path": "benchmark/tables/english_latin_rivalry_1887_2012.csv",
         "id": 25,
         "wikiId": "3250282-1",
         "name": "english_latin_rivalry_1887_2012",
@@ -1349,7 +1349,7 @@
         "popularity": 212.5
     },
     "26": {
-        "path": "DATA/Benchmark/Files/formula_one_drivers_2010.csv",
+        "path": "benchmark/tables/formula_one_drivers_2010.csv",
         "id": 26,
         "wikiId": "8482499-6",
         "name": "formula_one_drivers_2010",
@@ -1425,7 +1425,7 @@
         "popularity": 8079.6
     },
     "27": {
-        "path": "DATA/Benchmark/Files/sadaharu_oh_1959_1980.csv",
+        "path": "benchmark/tables/sadaharu_oh_1959_1980.csv",
         "id": 27,
         "wikiId": "220635-1",
         "name": "sadaharu_oh_1959_1980",
@@ -1528,7 +1528,7 @@
         "popularity": 7761.3
     },
     "28": {
-        "path": "DATA/Benchmark/Files/equestrian_2012.csv",
+        "path": "benchmark/tables/equestrian_2012.csv",
         "id": 28,
         "wikiId": "35779906-3",
         "name": "equestrian_2012",
@@ -1574,7 +1574,7 @@
         "popularity": 418.0
     },
     "29": {
-        "path": "DATA/Benchmark/Files/tennessee_vanderbilt_rivalry_1900_2012.csv",
+        "path": "benchmark/tables/tennessee_vanderbilt_rivalry_1900_2012.csv",
         "id": 29,
         "wikiId": "38232321-1",
         "name": "tennessee_vanderbilt_rivalry_1900_2012",
@@ -1618,7 +1618,7 @@
         "popularity": 2471.6
     },
     "30": {
-        "path": "DATA/Benchmark/Files/classic_100_ten_years_on.csv",
+        "path": "benchmark/tables/classic_100_ten_years_on.csv",
         "id": 30,
         "wikiId": "28724476-1",
         "name": "classic_100_ten_years_on",
@@ -1660,7 +1660,7 @@
         "popularity": 91.6
     },
     "31": {
-        "path": "DATA/Benchmark/Files/udaykumar_films.csv",
+        "path": "benchmark/tables/udaykumar_films.csv",
         "id": 31,
         "wikiId": "33558174-1",
         "name": "udaykumar_films",
@@ -1696,7 +1696,7 @@
         "popularity": 6002.2
     },
     "32": {
-        "path": "DATA/Benchmark/Files/fa_cup_qualifying_rounds_1999_2000.csv",
+        "path": "benchmark/tables/fa_cup_qualifying_rounds_1999_2000.csv",
         "id": 32,
         "wikiId": "37922932-1",
         "name": "fa_cup_qualifying_rounds_1999_2000",
@@ -1735,7 +1735,7 @@
         "popularity": 96.9
     },
     "33": {
-        "path": "DATA/Benchmark/Files/portuguese_grape_varieties.csv",
+        "path": "benchmark/tables/portuguese_grape_varieties.csv",
         "id": 33,
         "wikiId": "25051586-1",
         "name": "portuguese_grape_varieties",
@@ -1764,7 +1764,7 @@
         "popularity": 896.2
     },
     "34": {
-        "path": "DATA/Benchmark/Files/ramsar_convention_parties.csv",
+        "path": "benchmark/tables/ramsar_convention_parties.csv",
         "id": 34,
         "wikiId": "37949418-1",
         "name": "ramsar_convention_parties",
@@ -1804,7 +1804,7 @@
         "popularity": 792.3
     },
     "35": {
-        "path": "DATA/Benchmark/Files/guitar_hero_5_songs.csv",
+        "path": "benchmark/tables/guitar_hero_5_songs.csv",
         "id": 35,
         "wikiId": "23648960-1",
         "name": "guitar_hero_5_songs",
@@ -1837,7 +1837,7 @@
         "popularity": 11940.3
     },
     "36": {
-        "path": "DATA/Benchmark/Files/south_cambridgeshire_district_council_1973_2012.csv",
+        "path": "benchmark/tables/south_cambridgeshire_district_council_1973_2012.csv",
         "id": 36,
         "wikiId": "6610496-2",
         "name": "south_cambridgeshire_district_council_1973_2012",
@@ -1890,7 +1890,7 @@
         "popularity": 426.1
     },
     "37": {
-        "path": "DATA/Benchmark/Files/dublin_maternity_hospital_mortality_rates_1784_1849.csv",
+        "path": "benchmark/tables/dublin_maternity_hospital_mortality_rates_1784_1849.csv",
         "id": 37,
         "wikiId": "16951645-5",
         "name": "dublin_maternity_hospital_mortality_rates_1784_1849",
@@ -1934,7 +1934,7 @@
         "popularity": 943.1
     },
     "38": {
-        "path": "DATA/Benchmark/Files/ship_launches_january_1944.csv",
+        "path": "benchmark/tables/ship_launches_january_1944.csv",
         "id": 38,
         "wikiId": "3561655-1",
         "name": "ship_launches_january_1944",
@@ -1972,7 +1972,7 @@
         "popularity": 366.6
     },
     "39": {
-        "path": "DATA/Benchmark/Files/uk_demographics_1960_2012.csv",
+        "path": "benchmark/tables/uk_demographics_1960_2012.csv",
         "id": 39,
         "wikiId": "31725-6",
         "name": "uk_demographics_1960_2012",
@@ -2032,7 +2032,7 @@
         "popularity": 50946.5
     },
     "40": {
-        "path": "DATA/Benchmark/Files/fukushima_plant_operating_history_1970_2009.csv",
+        "path": "benchmark/tables/fukushima_plant_operating_history_1970_2009.csv",
         "id": 40,
         "wikiId": "11986472-2",
         "name": "fukushima_plant_operating_history_1970_2009",
@@ -2086,7 +2086,7 @@
         "popularity": 14850.3
     },
     "41": {
-        "path": "DATA/Benchmark/Files/new_zealand_football_results_1922_2012.csv",
+        "path": "benchmark/tables/new_zealand_football_results_1922_2012.csv",
         "id": 41,
         "wikiId": "12276582-9",
         "name": "new_zealand_football_results_1922_2012",
@@ -2140,7 +2140,7 @@
         "popularity": 447.7
     },
     "42": {
-        "path": "DATA/Benchmark/Files/jack_nicklaus_achievements_1962_2005.csv",
+        "path": "benchmark/tables/jack_nicklaus_achievements_1962_2005.csv",
         "id": 42,
         "wikiId": "13026799-3",
         "name": "jack_nicklaus_achievements_1962_2005",
@@ -2197,7 +2197,7 @@
         "popularity": 4087.3
     },
     "43": {
-        "path": "DATA/Benchmark/Files/bond_credit_rating_1981_2008.csv",
+        "path": "benchmark/tables/bond_credit_rating_1981_2008.csv",
         "id": 43,
         "wikiId": "4318357-4",
         "name": "bond_credit_rating_1981_2008",
@@ -2281,7 +2281,7 @@
         "popularity": 44987.2
     },
     "44": {
-        "path": "DATA/Benchmark/Files/baltimore_oreoles_2012.csv",
+        "path": "benchmark/tables/baltimore_oreoles_2012.csv",
         "id": 44,
         "wikiId": "33234112-15",
         "name": "baltimore_oreoles_2012",
@@ -2350,7 +2350,7 @@
         "popularity": 868.2
     },
     "45": {
-        "path": "DATA/Benchmark/Files/david_robinson_40_pts_games.csv",
+        "path": "benchmark/tables/david_robinson_40_pts_games.csv",
         "id": 45,
         "wikiId": "207750-2",
         "name": "david_robinson_40_pts_games",
@@ -2420,7 +2420,7 @@
         "popularity": 38902.9
     },
     "46": {
-        "path": "DATA/Benchmark/Files/latin_american_migration_to_uk_1997_2008.csv",
+        "path": "benchmark/tables/latin_american_migration_to_uk_1997_2008.csv",
         "id": 46,
         "wikiId": "11634440-2",
         "name": "latin_american_migration_to_uk_1997_2008",
@@ -2492,7 +2492,7 @@
         "popularity": 1635.3
     },
     "47": {
-        "path": "DATA/Benchmark/Files/european_countries_gdp_2007_2012.csv",
+        "path": "benchmark/tables/european_countries_gdp_2007_2012.csv",
         "id": 47,
         "wikiId": "1163791-1",
         "name": "european_countries_gdp_2007_2012",
@@ -2545,7 +2545,7 @@
         "popularity": 19784.4
     },
     "48": {
-        "path": "DATA/Benchmark/Files/royal_dulton_figurines_HN4100_HN4199.csv",
+        "path": "benchmark/tables/royal_dulton_figurines_HN4100_HN4199.csv",
         "id": 48,
         "wikiId": "8853626-38",
         "name": "royal_dulton_figurines_HN4100_HN4199",
@@ -2583,7 +2583,7 @@
         "popularity": 285.1
     },
     "49": {
-        "path": "DATA/Benchmark/Files/adaalat_episodes_2012.csv",
+        "path": "benchmark/tables/adaalat_episodes_2012.csv",
         "id": 49,
         "wikiId": "38351197-3",
         "name": "adaalat_episodes_2012",
@@ -2627,7 +2627,7 @@
         "popularity": 61.8
     },
     "50": {
-        "path": "DATA/Benchmark/Files/viktoria_plzen_1993_2012.csv",
+        "path": "benchmark/tables/viktoria_plzen_1993_2012.csv",
         "id": 50,
         "wikiId": "4036422-2",
         "name": "viktoria_plzen_1993_2012",
@@ -2692,7 +2692,7 @@
         "popularity": 9489.4
     },
     "51": {
-        "path": "DATA/Benchmark/Files/just_dance_kids_2_tracks.csv",
+        "path": "benchmark/tables/just_dance_kids_2_tracks.csv",
         "id": 51,
         "wikiId": "33619136-1",
         "name": "just_dance_kids_2_tracks",
@@ -2729,7 +2729,7 @@
         "popularity": 1880.8
     },
     "52": {
-        "path": "DATA/Benchmark/Files/cross_country_junior_women_1996.csv",
+        "path": "benchmark/tables/cross_country_junior_women_1996.csv",
         "id": 52,
         "wikiId": "26744945-1",
         "name": "cross_country_junior_women_1996",
@@ -2766,7 +2766,7 @@
         "popularity": 81.8
     },
     "53": {
-        "path": "DATA/Benchmark/Files/metropolitan_opera_us_premieres.csv",
+        "path": "benchmark/tables/metropolitan_opera_us_premieres.csv",
         "id": 53,
         "wikiId": "18050243-2",
         "name": "metropolitan_opera_us_premieres",
@@ -2804,7 +2804,7 @@
         "popularity": 176.7
     },
     "54": {
-        "path": "DATA/Benchmark/Files/kasparov_kramnik_1993_2004.csv",
+        "path": "benchmark/tables/kasparov_kramnik_1993_2004.csv",
         "id": 54,
         "wikiId": "17471011-1",
         "name": "kasparov_kramnik_1993_2004",
@@ -2849,7 +2849,7 @@
         "popularity": 481.3
     },
     "55": {
-        "path": "DATA/Benchmark/Files/decathlon_top50_1999.csv",
+        "path": "benchmark/tables/decathlon_top50_1999.csv",
         "id": 55,
         "wikiId": "27004453-2",
         "name": "decathlon_top50_1999",
@@ -2889,7 +2889,7 @@
         "popularity": 59.5
     },
     "56": {
-        "path": "DATA/Benchmark/Files/minor_planets_152601_152700.csv",
+        "path": "benchmark/tables/minor_planets_152601_152700.csv",
         "id": 56,
         "wikiId": "10465891-1",
         "name": "minor_planets_152601_152700",
@@ -2929,7 +2929,7 @@
         "popularity": 190.1
     },
     "57": {
-        "path": "DATA/Benchmark/Files/two_and_a_half_men_season_7.csv",
+        "path": "benchmark/tables/two_and_a_half_men_season_7.csv",
         "id": 57,
         "wikiId": "22892217-1",
         "name": "two_and_a_half_men_season_7",
@@ -2973,7 +2973,7 @@
         "popularity": 4470.7
     },
     "58": {
-        "path": "DATA/Benchmark/Files/moesha_season_7.csv",
+        "path": "benchmark/tables/moesha_season_7.csv",
         "id": 58,
         "wikiId": "24547330-4",
         "name": "moesha_season_7",
@@ -3012,7 +3012,7 @@
         "popularity": 4863.7
     },
     "59": {
-        "path": "DATA/Benchmark/Files/miss_new_york_usa_delegates_2012.csv",
+        "path": "benchmark/tables/miss_new_york_usa_delegates_2012.csv",
         "id": 59,
         "wikiId": "34210484-2",
         "name": "miss_new_york_usa_delegates_2012",
@@ -3044,7 +3044,7 @@
         "popularity": 230.1
     },
     "60": {
-        "path": "DATA/Benchmark/Files/clint_dolezel_stats_1995_2008.csv",
+        "path": "benchmark/tables/clint_dolezel_stats_1995_2008.csv",
         "id": 60,
         "wikiId": "3311948-1",
         "name": "clint_dolezel_stats_1995_2008",
@@ -3101,7 +3101,7 @@
         "popularity": 1168.1
     },
     "61": {
-        "path": "DATA/Benchmark/Files/oxford_university_undergraduate_admissions_1988_2010.csv",
+        "path": "benchmark/tables/oxford_university_undergraduate_admissions_1988_2010.csv",
         "id": 61,
         "wikiId": "31452834-1",
         "name": "oxford_university_undergraduate_admissions_1988_2010",
@@ -3156,7 +3156,7 @@
         "popularity": 425.8
     },
     "62": {
-        "path": "DATA/Benchmark/Files/serbia_demographics_1900_1912.csv",
+        "path": "benchmark/tables/serbia_demographics_1900_1912.csv",
         "id": 62,
         "wikiId": "1508951-1",
         "name": "serbia_demographics_1900_1912",
@@ -3213,7 +3213,7 @@
         "popularity": 8346.4
     },
     "63": {
-        "path": "DATA/Benchmark/Files/protein_data_bank_1976_2012.csv",
+        "path": "benchmark/tables/protein_data_bank_1976_2012.csv",
         "id": 63,
         "wikiId": "102505-1",
         "name": "protein_data_bank_1976_2012",
@@ -3255,7 +3255,7 @@
         "popularity": 9555.8
     },
     "64": {
-        "path": "DATA/Benchmark/Files/european_athletics_championships_1986.csv",
+        "path": "benchmark/tables/european_athletics_championships_1986.csv",
         "id": 64,
         "wikiId": "1822278-5",
         "name": "european_athletics_championships_1986",
@@ -3302,7 +3302,7 @@
         "popularity": 779.8
     },
     "65": {
-        "path": "DATA/Benchmark/Files/mongolia_provinces_population_79_89_00_09.csv",
+        "path": "benchmark/tables/mongolia_provinces_population_79_89_00_09.csv",
         "id": 65,
         "wikiId": "689678-2",
         "name": "mongolia_provinces_population_79_89_00_09",
@@ -3347,7 +3347,7 @@
         "popularity": 2277.6
     },
     "66": {
-        "path": "DATA/Benchmark/Files/tulsa_shock_2010.csv",
+        "path": "benchmark/tables/tulsa_shock_2010.csv",
         "id": 66,
         "wikiId": "25223073-11",
         "name": "tulsa_shock_2010",
@@ -3413,7 +3413,7 @@
         "popularity": 92.7
     },
     "67": {
-        "path": "DATA/Benchmark/Files/london_heathrow_busiest_routes_2012.csv",
+        "path": "benchmark/tables/london_heathrow_busiest_routes_2012.csv",
         "id": 67,
         "wikiId": "13595-3",
         "name": "london_heathrow_busiest_routes_2012",
@@ -3454,7 +3454,7 @@
         "popularity": 15237.0
     },
     "68": {
-        "path": "DATA/Benchmark/Files/hungarian_grand_prix_qualifying_2012.csv",
+        "path": "benchmark/tables/hungarian_grand_prix_qualifying_2012.csv",
         "id": 68,
         "wikiId": "28688245-1",
         "name": "hungarian_grand_prix_qualifying_2012",
@@ -3497,7 +3497,7 @@
         "popularity": 1102.9
     },
     "69": {
-        "path": "DATA/Benchmark/Files/farum_park_national_games.csv",
+        "path": "benchmark/tables/farum_park_national_games.csv",
         "id": 69,
         "wikiId": "3772615-1",
         "name": "farum_park_national_games",
@@ -3538,7 +3538,7 @@
         "popularity": 705.8
     },
     "70": {
-        "path": "DATA/Benchmark/Files/india_poverty_2007.csv",
+        "path": "benchmark/tables/india_poverty_2007.csv",
         "id": 70,
         "wikiId": "5821337-2",
         "name": "india_poverty_2007",
@@ -3588,7 +3588,7 @@
         "popularity": 56655.4
     },
     "71": {
-        "path": "DATA/Benchmark/Files/us_president_elections_idaho_2008.csv",
+        "path": "benchmark/tables/us_president_elections_idaho_2008.csv",
         "id": 71,
         "wikiId": "20684390-1",
         "name": "us_president_elections_idaho_2008",
@@ -3631,7 +3631,7 @@
         "popularity": 575.2
     },
     "72": {
-        "path": "DATA/Benchmark/Files/blackburn_rovers_1995_1996.csv",
+        "path": "benchmark/tables/blackburn_rovers_1995_1996.csv",
         "id": 72,
         "wikiId": "31162311-2",
         "name": "blackburn_rovers_1995_1996",
@@ -3673,7 +3673,7 @@
         "popularity": 1472.9
     },
     "73": {
-        "path": "DATA/Benchmark/Files/maurice_jarr_1958_2001.csv",
+        "path": "benchmark/tables/maurice_jarr_1958_2001.csv",
         "id": 73,
         "wikiId": "370885-1",
         "name": "maurice_jarr_1958_2001",
@@ -3708,7 +3708,7 @@
         "popularity": 11977.6
     },
     "74": {
-        "path": "DATA/Benchmark/Files/49ers_rams_rivalry_1980s.csv",
+        "path": "benchmark/tables/49ers_rams_rivalry_1980s.csv",
         "id": 74,
         "wikiId": "18226024-5",
         "name": "49ers_rams_rivalry_1980s",
@@ -3756,7 +3756,7 @@
         "popularity": 1598.5
     },
     "75": {
-        "path": "DATA/Benchmark/Files/academy_award_best_actress_2000s.csv",
+        "path": "benchmark/tables/academy_award_best_actress_2000s.csv",
         "id": 75,
         "wikiId": "23245556-9",
         "name": "academy_award_best_actress_2000s",
@@ -3792,7 +3792,7 @@
         "popularity": 104959.7
     },
     "76": {
-        "path": "DATA/Benchmark/Files/mens_walking_20km_record_1911_2007.csv",
+        "path": "benchmark/tables/mens_walking_20km_record_1911_2007.csv",
         "id": 76,
         "wikiId": "13399748-1",
         "name": "mens_walking_20km_record_1911_2007",
@@ -3831,7 +3831,7 @@
         "popularity": 458.2
     },
     "77": {
-        "path": "DATA/Benchmark/Files/booknotes_interviews_1996.csv",
+        "path": "benchmark/tables/booknotes_interviews_1996.csv",
         "id": 77,
         "wikiId": "33047465-1",
         "name": "booknotes_interviews_1996",
@@ -3866,7 +3866,7 @@
         "popularity": 95.4
     },
     "78": {
-        "path": "DATA/Benchmark/Files/bafta_best_actor_leading_role_2000s.csv",
+        "path": "benchmark/tables/bafta_best_actor_leading_role_2000s.csv",
         "id": 78,
         "wikiId": "1235674-7",
         "name": "bafta_best_actor_leading_role_2000s",
@@ -3905,7 +3905,7 @@
         "popularity": 8551.6
     },
     "79": {
-        "path": "DATA/Benchmark/Files/troublemaker_song_release_history.csv",
+        "path": "benchmark/tables/troublemaker_song_release_history.csv",
         "id": 79,
         "wikiId": "37186099-4",
         "name": "troublemaker_song_release_history",
@@ -3940,7 +3940,7 @@
         "popularity": 2289.9
     },
     "80": {
-        "path": "DATA/Benchmark/Files/wind_power_kansas_2001_2011.csv",
+        "path": "benchmark/tables/wind_power_kansas_2001_2011.csv",
         "id": 80,
         "wikiId": "27986117-1",
         "name": "wind_power_kansas_2001_2011",
@@ -3982,7 +3982,7 @@
         "popularity": 1204.1
     },
     "81": {
-        "path": "DATA/Benchmark/Files/fljotsdalshreppur_population_1998_2011.csv",
+        "path": "benchmark/tables/fljotsdalshreppur_population_1998_2011.csv",
         "id": 81,
         "wikiId": "27201723-1",
         "name": "fljotsdalshreppur_population_1998_2011",
@@ -4021,7 +4021,7 @@
         "popularity": 217.8
     },
     "82": {
-        "path": "DATA/Benchmark/Files/social_credit_party_1951_1984.csv",
+        "path": "benchmark/tables/social_credit_party_1951_1984.csv",
         "id": 82,
         "wikiId": "420752-1",
         "name": "social_credit_party_1951_1984",
@@ -4069,7 +4069,7 @@
         "popularity": 1318.0
     },
     "83": {
-        "path": "DATA/Benchmark/Files/soekarno_hatta_airport_2001_2012.csv",
+        "path": "benchmark/tables/soekarno_hatta_airport_2001_2012.csv",
         "id": 83,
         "wikiId": "1203751-2",
         "name": "soekarno_hatta_airport_2001_2012",
@@ -4114,7 +4114,7 @@
         "popularity": 22202.0
     },
     "84": {
-        "path": "DATA/Benchmark/Files/ulrike_maier_season_standings_1985_1994.csv",
+        "path": "benchmark/tables/ulrike_maier_season_standings_1985_1994.csv",
         "id": 84,
         "wikiId": "4178529-1",
         "name": "ulrike_maier_season_standings_1985_1994",
@@ -4170,7 +4170,7 @@
         "popularity": 2437.4
     },
     "85": {
-        "path": "DATA/Benchmark/Files/black_dog_barking_charts.csv",
+        "path": "benchmark/tables/black_dog_barking_charts.csv",
         "id": 85,
         "wikiId": "38442924-2",
         "name": "black_dog_barking_charts",
@@ -4201,7 +4201,7 @@
         "popularity": 1316.7
     },
     "86": {
-        "path": "DATA/Benchmark/Files/ahl_scoring_leaders_1979_1980.csv",
+        "path": "benchmark/tables/ahl_scoring_leaders_1979_1980.csv",
         "id": 86,
         "wikiId": "8441276-3",
         "name": "ahl_scoring_leaders_1979_1980",
@@ -4250,7 +4250,7 @@
         "popularity": 185.0
     },
     "87": {
-        "path": "DATA/Benchmark/Files/boxing_medal_table_olympics_1928.csv",
+        "path": "benchmark/tables/boxing_medal_table_olympics_1928.csv",
         "id": 87,
         "wikiId": "8441276-3",
         "name": "boxing_medal_table_olympics_1928",
@@ -4297,7 +4297,7 @@
         "popularity": 427.9
     },
     "88": {
-        "path": "DATA/Benchmark/Files/uefa_intertoto_cup_top_scorers_2001.csv",
+        "path": "benchmark/tables/uefa_intertoto_cup_top_scorers_2001.csv",
         "id": 88,
         "wikiId": "5834165-6",
         "name": "uefa_intertoto_cup_top_scorers_2001",
@@ -4336,7 +4336,7 @@
         "popularity": 1776.8
     },
     "89": {
-        "path": "DATA/Benchmark/Files/montenegro_eurovision_2007.csv",
+        "path": "benchmark/tables/montenegro_eurovision_2007.csv",
         "id": 89,
         "wikiId": "8287051-1",
         "name": "montenegro_eurovision_2007",
@@ -4377,7 +4377,7 @@
         "popularity": 145.5
     },
     "90": {
-        "path": "DATA/Benchmark/Files/great_ukrainians_series.csv",
+        "path": "benchmark/tables/great_ukrainians_series.csv",
         "id": 90,
         "wikiId": "14007200-1",
         "name": "great_ukrainians_series",
@@ -4409,7 +4409,7 @@
         "popularity": 350.0
     },
     "91": {
-        "path": "DATA/Benchmark/Files/elland_road_leeds_united_attendance_2000_2012.csv",
+        "path": "benchmark/tables/elland_road_leeds_united_attendance_2000_2012.csv",
         "id": 91,
         "wikiId": "706736-1",
         "name": "elland_road_leeds_united_attendance_2000_2012",
@@ -4455,7 +4455,7 @@
         "popularity": 13195.1
     },
     "92": {
-        "path": "DATA/Benchmark/Files/sydney_hobart_yacht_race_2007.csv",
+        "path": "benchmark/tables/sydney_hobart_yacht_race_2007.csv",
         "id": 92,
         "wikiId": "14882588-2",
         "name": "sydney_hobart_yacht_race_2007",
@@ -4497,7 +4497,7 @@
         "popularity": 117.8
     },
     "93": {
-        "path": "DATA/Benchmark/Files/kal_penn_tv_roles_1999_2013.csv",
+        "path": "benchmark/tables/kal_penn_tv_roles_1999_2013.csv",
         "id": 93,
         "wikiId": "879015-2",
         "name": "kal_penn_tv_roles_1999_2013",
@@ -4533,7 +4533,7 @@
         "popularity": 118256.8
     },
     "94": {
-        "path": "DATA/Benchmark/Files/susen_tiedtke_achievements_1987_2000.csv",
+        "path": "benchmark/tables/susen_tiedtke_achievements_1987_2000.csv",
         "id": 94,
         "wikiId": "13721766-1",
         "name": "susen_tiedtke_achievements_1987_2000",
@@ -4574,7 +4574,7 @@
         "popularity": 504.5
     },
     "95": {
-        "path": "DATA/Benchmark/Files/bifa_british_independent_film_2010_2012.csv",
+        "path": "benchmark/tables/bifa_british_independent_film_2010_2012.csv",
         "id": 95,
         "wikiId": "30022023-3",
         "name": "bifa_british_independent_film_2010_2012",
@@ -4610,7 +4610,7 @@
         "popularity": 848.7
     },
     "96": {
-        "path": "DATA/Benchmark/Files/through_the_wormhole_season_4.csv",
+        "path": "benchmark/tables/through_the_wormhole_season_4.csv",
         "id": 96,
         "wikiId": "13336602-13",
         "name": "through_the_wormhole_season_4",
@@ -4647,7 +4647,7 @@
         "popularity": 8845.6
     },
     "97": {
-        "path": "DATA/Benchmark/Files/un_habitat_scroll_of_honour_award_1991.csv",
+        "path": "benchmark/tables/un_habitat_scroll_of_honour_award_1991.csv",
         "id": 97,
         "wikiId": "34155738-21",
         "name": "un_habitat_scroll_of_honour_award_1991",
@@ -4679,7 +4679,7 @@
         "popularity": 261.4
     },
     "98": {
-        "path": "DATA/Benchmark/Files/miss_universe_semifinal_scores_1993.csv",
+        "path": "benchmark/tables/miss_universe_semifinal_scores_1993.csv",
         "id": 98,
         "wikiId": "6698510-2",
         "name": "miss_universe_semifinal_scores_1993",
@@ -4724,7 +4724,7 @@
         "popularity": 3890.2
     },
     "99": {
-        "path": "DATA/Benchmark/Files/woodley_season_1_2012.csv",
+        "path": "benchmark/tables/woodley_season_1_2012.csv",
         "id": 99,
         "wikiId": "30511094-2",
         "name": "woodley_season_1_2012",
