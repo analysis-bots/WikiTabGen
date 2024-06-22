@@ -4,6 +4,24 @@ This repository contains **WikiTabGen** - a benchmark for evaluating LLM capabil
 
 The benchmark includes 100 tables curated and processed from the WikiTables Project. The tables feature a diverse set of properties: length, width, amount of numerical data, and popularity.
 
+## LeaderBoard
+
+
+| Rank | LLM        | Method     | Keys Recall | Keys Precision | Keys F1 | Non-Keys Recall | Non-Keys Precision | Non-Keys F1 | Overall Recall | Overall Precision | Overall F1 |
+|------|------------|------------|-------------|----------------|---------|-----------------|--------------------|-------------|----------------|-------------------|------------|
+| 1    | GPT-4      | Row-by-row | 55.8%       | 55.6%          | 53.7%   | 12.3%           | 13.5%              | 12.2%       | 20.0%          | 21.1%             | 19.6%      |
+| 2    | GPT-4      | Cell-by-cell | 55.7%       | 55.6%          | 53.7%   | 11.2%           | 12.5%              | 11.1%       | 19.0%          | 20.1%             | 18.6%      |
+| 3    | GPT-4      | Full tab.   | 40.6%       | 62.5%          | 43.8%   | 10.4%           | 18.0%              | 11.5%       | 16.0%          | 25.7%             | 17.5%      |
+| 4    | GPT-3.5    | Full tab.   | 44.6%       | 59.4%          | 46.4%   | 9.0%            | 13.3%              | 9.6%        | 15.4%          | 21.2%             | 16.1%      |
+| 5    | GPT-3.5    | Cell-by-cell | 51.5%       | 55.6%          | 49.4%   | 7.5%            | 10.4%              | 7.6%        | 15.0%          | 18.1%             | 14.6%      |
+| 6    | GPT-3.5    | Row-by-row | 51.5%       | 55.6%          | 49.4%   | 7.0%            | 10.3%              | 7.2%        | 14.6%          | 18.0%             | 14.3%      |
+| 7    | Llama2-70B | Row-by-row | 42.1%       | 46.6%          | 41.4%   | 3.3%            | 5.5%               | 3.4%        | 9.3%           | 12.1%             | 9.3%       |
+| 8    | Llama2-70B | Cell-by-cell | 42.1%       | 46.6%          | 41.4%   | 2.3%            | 4.4%               | 2.4%        | 8.5%           | 11.1%             | 8.4%       |
+| 9    | Llama2-70B | Full tab.   | 24.7%       | 49.0%          | 29.0%   | 2.5%            | 7.4%               | 3.4%        | 6.7%           | 14.6%             | 8.0%       |
+| 10   | Llama2-13B | Row-by-row | 31.8%       | 43.0%          | 32.4%   | 2.3%            | 4.6%               | 2.6%        | 7.2%           | 10.8%             | 7.5%       |
+
+
+
 ## Usage
 Examples for GPT-3.5 for all prompting methods (full table, row-by-row, and cell-by-cell) are available in the _example_notebooks_ folder. You need to set your `open.api_key` in the Imports section. Upon successful execution, a results folder will be created with the _tables_ subfolder containing generated tables in CSV format, and a _result.json_ file with the logs of prompts and LLM responses.
 
