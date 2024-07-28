@@ -9,18 +9,16 @@ This is our current leaderboard, evaluating the LLMs ability to generate the cor
 
 | Rank | LLM        | Method       | Keys F1 | Non-Keys F1 | Overall F1 |
 |------|------------|--------------|---------|-------------|------------|
-| **1**    | **GPT-4o**      | **Row-by-row**  | **53.5%**   | **13.8%**       | **20.8%**      |
-| 2    | LLama3.1-70B      | Full-Table   | 49.9%   | 13.1%       | **20.0%**      |
+| **1**    | **GPT-4o** | **Row-by-row**  | **53.5%**   | **13.8%**       | **20.8%**      |
+| 2    | LLama3.1-70B | Full-Table   | 49.9%   | 13.1%       | **20.0%**      |
 | 3    | GPT-4      | Row-by-row   | 53.7%   | 12.2%       | **19.6%**      |
-| 4    | GPT-4      | Cell-by-cell | 53.7%   | 11.1%       | **18.6%**      |
-| 5    | GPT-4      | Full-Table   | 43.8%   | 11.5%       | **17.5%**      |
-| 6    | GPT-4o     | Full-Table   | 40.3%   | 10.5%       | **16.3%**      |
-| 7    | GPT-3.5    | Full-Table   | 46.4%   | 9.6%        | **16.1%**      |
-| 8    | GPT-3.5    | Cell-by-cell | 49.4%   | 7.6%        | **14.6%**      |
-| 9    | GPT-3.5    | Row-by-row   | 49.4%   | 7.2%        | **14.3%**      |
-| 10    | Llama2-70B | Row-by-row   | 41.4%   | 3.4%        | **9.3%**       |
-
-
+| 4    | LLama3.1-70B | Row-by-row   | 50.0%   | 12.2%       | **19.0%**      |
+| 5    | GPT-4      | Cell-by-cell | 53.7%   | 11.1%       | **18.6%**      |
+| 6    | GPT-4      | Full-Table   | 43.8%   | 11.5%       | **17.5%**      |
+| 7    | GPT-4o     | Full-Table   | 40.3%   | 10.5%       | **16.3%**      |
+| 8    | GPT-3.5    | Full-Table   | 46.4%   | 9.6%        | **16.1%**      |
+| 9    | GPT-3.5    | Cell-by-cell | 49.4%   | 7.6%        | **14.6%**      |
+| 10    | GPT-3.5    | Row-by-row   | 49.4%   | 7.2%        | **14.3%**      |
 
 
 ## Usage
